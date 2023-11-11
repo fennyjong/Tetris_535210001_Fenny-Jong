@@ -17,7 +17,7 @@ Proyek ini adalah implementasi game Tetris menggunakan bahasa pemrograman Java. 
 
 ## Cara Menjalankan Proyek
 1. Pastikan Anda memiliki Java Development Kit (JDK) terinstall.
-2. Clone repositori ini ke mesin lokal Anda.
+2. Clone repositori ini.
     ```sh
     git clone https://github.com/username/Tetris-Java.git
     ```
