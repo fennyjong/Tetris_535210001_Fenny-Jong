@@ -24,3 +24,4 @@ Proyek ini adalah implementasi game Tetris menggunakan bahasa pemrograman Java. 
 3. Jalankan class Tetris.java untuk memulai permainan.
 
 ## Screenshots
+![Tetris UI](https://github.com/fennyjong/Tetris_535210001_Fenny-Jong/assets/89572393/d7bfc785-eb03-44d6-8173-f21acfdae758)
