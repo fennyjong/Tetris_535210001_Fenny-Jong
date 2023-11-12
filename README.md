@@ -1,6 +1,8 @@
 # Tetris Game
 
 **Deskripsi:**
+
+
 Proyek ini adalah implementasi game Tetris menggunakan bahasa pemrograman Java. Tetris adalah permainan puzzle klasik yang menciptakan tantangan dengan menjatuhkan bentuk-bentuk yang berbeda ke dalam bidang permainan untuk membentuk garis horizontal penuh. Setiap kali garis terbentuk, itu akan menghilang dan memberikan pemain poin.
 
 ## Fitur Utama
@@ -22,3 +24,7 @@ Proyek ini adalah implementasi game Tetris menggunakan bahasa pemrograman Java. 
 
 ## Screenshots
 ![Tetris UI](https://github.com/fennyjong/Tetris_535210001_Fenny-Jong/assets/89572393/d7bfc785-eb03-44d6-8173-f21acfdae758)
+
+## Video Demo
+
+https://drive.google.com/file/d/1kIW4LrT4vD3hd_lgkPOe0xNX8F8ByhWi/view?usp=drive_link 
